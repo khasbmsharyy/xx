@@ -489,7 +489,7 @@ setInterval(toggleColorPanel, 300);
             $('.label-primary, .btn-primary, .bg-primary').attr('style', function(i, s) { return (s || '') + 'background-color: ' + selectedColor + ' !important;';});
         }
     });
-$('<img style="height:50px;width: 100%;margin-right: 50px;background-color:#595A5C;"src="aaa1.jpg"border="0">').insertBefore('div#d2bc');    
+$('<img style="height:50px;width: 100%;margin-right: 50px;background-color:#595A5C;"src="https://up6.cc/2026/06/178182119574491.jpg"border="0">').insertBefore('div#d2bc');    
     // 4. تعديل النصوص الترحيبية
     $('.fl.ustat').css('width', '3px');
     $('.fa.fa-user-plus').html(`❥تسجيل `);
