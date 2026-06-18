@@ -414,7 +414,7 @@ $("<style>#audio-container { position: absolute;bottom: 0;width: 100%;background
     $("div#tlogins .btn.btn-primary").click(function () { $(".a3").hide(); });
 
     $(
-        '<div id="color-picker-icon"><img src="https://up6.cc/2026/06/178124675626321.png" alt="Color Picker Icon"></div>' +
+        '<div id="color-picker-icon"><img src="https://up6.cc/2026/06/178124675626.png" alt="Color Picker Icon"></div>' +
         '<div id="color-picker-panel">' +
         '<h4>اختر لون الخلفية</h4><div class="custom-color">' +
         '<div style="background-color: #a41e54;" data-color="#a41e54"></div><div style="background-color: #982072;" data-color="#982072"></div><div style="background-color: #98278f;" data-color="#98278f"></div><div style="background-color: #62007a;" data-color="#62007a"></div><div style="background-color: #3c007a;" data-color="#3c007a"></div><div style="background-color: #0d1c4d;" data-color="#0d1c4d"></div><div style="background-color: #6f6f6f;" data-color="#6f6f6f"></div><div style="background-color: #212121;" data-color="#212121"></div></div>' +
