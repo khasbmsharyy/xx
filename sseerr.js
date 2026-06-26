@@ -509,7 +509,7 @@ $("[data-target=#rooms]").attr('title','   غــــــــــرف  ســر 
 $("[data-target=#chats]").attr('title','      خــــــــــــــاص  ســر قــلــبــي ')
 $("[data-target=#users]").attr('title',' اعـــــضـــــاء ســر قــلــبــي    ')
 
-$('<img style="height:60px;width: 100%;margin-right: 50px;background-color:#595A5C;"src="123123.jpg"border="0">').insertBefore('div#d2bc');    
+$('<img style="height:60px;width: 100%;margin-right: 50px;background-color:#595A5C;"src="https://raw.githubusercontent.com/khasbmsharyy/xx/refs/heads/main/123123.jpg"border="0">').insertBefore('div#d2bc');    
     // 4. تعديل النصوص الترحيبية
     $('.fl.ustat').css('width', '3px');
     $('.fa.fa-user-plus').html(`❥تسجيل `);
