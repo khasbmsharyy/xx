@@ -1,9 +1,9 @@
 $(`<center><div id="sultan13">
-<a id="ahmed21" style="width: 85px;padding: 1px;border-radius: 0px 0px 0px 15px!important;height: 22px;" class="btn minix btn-primary" target="_blank" href="https://www.chat-ing.com/qawanin.html">القوانين</a>
-<a id="ahmed21" style="width: 85px;padding: 1px;height: 22px;" class="btn minix btn-primary" target="_blank" href="">الأفتارات</a>
-<a id="ahmed21" style="width: 85px;padding: 1px;height: 22px;" class="btn minix btn-primary" target="_blank" href="">الاشتراكات</a>
-<a id="ahmed21" style="    border-radius: 0px 0px 15px 0px!important;width: 85px;padding: 1px;height: 22px;" class="btn minix btn-primary" target="_blank"
-href="/">جوائز </a>
+<a id="ahmed21" style="width: 85px;padding: 1px;border-radius: 15px 15px 0px ppx!important;height: 22px;" class="btn minix btn-primary" target="_blank" href="#">القوانين</a>
+<a id="ahmed21" style="width: 85px;padding: 1px;height: 22px;" class="btn minix btn-primary" target="_blank" href="#">الأفتارات</a>
+<a id="ahmed21" style="width: 85px;padding: 1px;height: 22px;" class="btn minix btn-primary" target="_blank" href="#">الاشتراكات</a>
+<a id="ahmed21" style="    border-radius: 15px 15px 0px 0px!important;width: 85px;padding: 1px;height: 22px;" class="btn minix btn-primary" target="_blank"
+href="#">جوائز </a>
 `).insertBefore('.nav.nav-tabs'); 
 $(`<style>
     /* تعريف المتغيرات الجذرية للتحكم الموحد بالألوان */
