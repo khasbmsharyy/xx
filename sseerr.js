@@ -296,7 +296,7 @@ color:#fff !important;
 
     /* --- تنسيقات لوحة التحكم بالألوان --- */
     #color-picker-icon { position: fixed; top: 80%; right: 20px; transform: translateY(-50%); width: 60px; height: 60px; z-index: 10000; cursor: pointer; display: flex; justify-content: center; align-items: center; transition: all 0.4s ease-in-out; }
-    #color-picker-icon img { width: 100%; height: 100%; border-radius: 50%; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.4s ease-in-out; }
+    #color-picker-icon img { width: 100%; height: 100%; border-radius: 50%; box-shadow: 0 0px 0px rgba(0, 0, 0, 0.0); transition: transform 0.4s ease-in-out; background-size: cover !important;}
     #color-picker-icon:hover img { transform: scale(1.1); }
     #color-picker-panel { position: fixed; top: 50%; right: 50%; transform: translate(50%, -50%); background: linear-gradient(135deg, #ffffff, #f3f4f6); border-radius: 16px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); padding: 20px; display: none; z-index: 9999; width: 300px; font-family: 'Arial', sans-serif; color: #ccc; animation: fadeIn 0.5s ease-in-out; }
     #color-picker-panel h4 { margin: 0; font-size: 16px; font-weight: bold; text-align: center; margin-bottom: 10px; color: #aaa; }
