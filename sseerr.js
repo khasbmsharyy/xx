@@ -49,7 +49,7 @@ font-size:14px !important;
 .broadcasters > div > .prod{
 
 background-image:
-url("https://up6.cc/2026/06/17812343925081.png") !important;
+url("https://raw.githubusercontent.com/khasbmsharyy/xx/refs/heads/main/17812343925081.png") !important;
 background-color: var(--primary-color)!important;
 border-radius: 15px 15px 0px 0px!important;
 background-position:center !important;
